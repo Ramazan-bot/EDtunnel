@@ -6,6 +6,6 @@ us.kg = true
 
 [vars]
 PROXYIP = "146.103.49.150:2053"
-UUID = "12345678-ramo-0000-0000-000000000000"
+UUID = "ramazan-2000"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
