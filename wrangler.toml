@@ -1,11 +1,11 @@
 name = "test08"
-main = "_ramazan.com"
+main = "_workers.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 us.kg = true
 
 [vars]
 PROXYIP = "45.60.186.91:443"
-UUID = "347c17ab-1286-442c-a1cc-eaae0c1e6ba6"
+UUID = "6af2401c-61bc-4906-8272-79a7d28a50ac"
 # SOCKS5 = "127.0.0.0:1080"
 # SOCKS5_RELAY = "true"
