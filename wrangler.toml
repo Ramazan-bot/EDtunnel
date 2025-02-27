@@ -5,7 +5,7 @@ compatibility_date = "2023-05-26"
 us.kg = true
 
 [vars]
-PROXYIP = "45.60.186.91:443"
-UUID = "347c17ab-1286-442c-a1cc-eaae0c1e6ba6"
+PROXYIP = "103.249.134.55:443"
+UUID = "eef51130-c3b0-4a03-93a3-8bfe6514c9ed"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
